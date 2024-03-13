@@ -13,7 +13,7 @@ I'm continuously enhancing my skills in data science and business intelligence. 
 I'm open to collaborating on projects related to business intelligence analysis, financial analytics, social issues analysis, and anything that involves leveraging data to drive decision-making and create impact.
 
 ## 📫 How to reach me ...
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gichinga-mbugua-121725259/). I'm always up for engaging discussions, collaborations, or just a friendly chat!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gichinga-mbugua-121725259/) . I'm always up for engaging discussions, collaborations, or just a friendly chat!
 
 ## ⚡ Fun fact: ...
 Here's an interesting tidbit about me: I'm deeply passionate about addressing food insecurity in Kenya through the power of data science, modern technology, and philanthropy. I believe that combining these elements can make a significant impact in improving access to food and livelihoods for communities in need.
