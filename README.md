@@ -16,7 +16,7 @@ I'm open to collaborating on projects related to business intelligence analysis,
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gichinga-mbugua-121725259/). I'm always up for engaging discussions, collaborations, or just a friendly chat!
 
 ## ⚡ Fun fact: ...
-Did you know that aside from my passion for data science, I also enjoy dabbling in agribusiness activities? It's true! Exploring price trends for pulses, cereals, and maize has been one of my intriguing ventures.
+Here's an interesting tidbit about me: I'm deeply passionate about addressing food insecurity in Kenya through the power of data science, modern technology, and philanthropy. I believe that combining these elements can make a significant impact in improving access to food and livelihoods for communities in need.
 
 Also the i believe the Younger Dryas theory to be true!
 
